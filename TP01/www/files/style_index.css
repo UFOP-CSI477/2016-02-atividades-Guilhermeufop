@@ -1,0 +1,29 @@
+body{
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin:0 auto;
+}
+
+div#mainDiv {
+	background-image: url("images/content1.jpg");
+	width: 1113px;
+	height: 607px;
+	margin-left: 119px;
+	margin-top: 20px;
+}
+
+
+div#newPage{
+	width: 290px;
+	height: 48px;
+	margin-top: 539px;
+	float:right;
+}
+
+p#click{
+	font-size: 28px;
+	color: #B05D60;
+	text-decoration: underline;
+	float:right;
+}

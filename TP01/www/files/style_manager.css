@@ -1,0 +1,142 @@
+body{
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin:0 auto;
+}
+
+div#mainDiv {
+	background-image: url("images/content3.jpg");
+	width: 1113px;
+	height: 607px;
+	margin-left: 119px;
+	margin-top: 20px;
+}
+
+div#menuAll{
+	width: 1113px;
+	height: 93px;
+}
+
+div#logo{
+	width: 319px;
+	height: 93px;
+	float: left;	
+}
+
+div#home{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#manager{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#patient{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#procedures{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#space{
+	width: 1113px;
+	height: 61px;
+	float: left;	
+}
+
+div#space2{
+	width: 117px;
+	height: 372px;
+	float: left;	
+}
+
+div#logar{
+	width: 323px;
+	height: 372px;
+	overflow: auto;
+}
+
+div#space3{
+	width: 674px;
+	height: 372px;
+	float: right;	
+}
+
+p#menuHome{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuManager{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuPatient{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuProcedures{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+h1#title1{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+}
+
+p#paragraph1{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+}
+
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a#links1:link{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+a#links2{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
