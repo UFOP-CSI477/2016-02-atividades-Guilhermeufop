@@ -48,9 +48,4 @@ insert into users values(1,'admin','admin@admin.com','admin',2,"", NOW(), NOW())
 
 insert into users values(2,'gui','gui@gmail.com','123',1,"", NOW(), NOW());
 
-
-
-
-
-
 insert into users values(3,'operador','operador@gmail.com','operador',3,"", NOW(), NOW());
