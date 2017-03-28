@@ -1,0 +1,145 @@
+body{
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin:0 auto;
+}
+
+div#mainDiv {
+	background-image: url("images/content2.jpg");
+	width: 1113px;
+	height: 607px;
+	margin-left: 119px;
+	margin-top: 20px;
+}
+
+div#menuAll{
+	width: 1113px;
+	height: 93px;
+}
+
+div#logo{
+	width: 500px;
+	height: 93px;
+	float: left;	
+}
+
+div#home{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#admin{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#cliente{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#produtos{
+	width: 145px;
+	height: 93px;
+	float: left;	
+}
+
+div#space{
+	width: 1113px;
+	height: 61px;
+	float: left;	
+}
+
+div#space2{
+	width: 117px;
+	height: 372px;
+	float: left;	
+}
+
+div#textE{
+	width: 405px;
+	height: 372px;
+float: left;
+
+}
+
+
+p#menuHome{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuAdmin{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuCliente{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+p#menuProdutos{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+h1#title1{
+	font-family = "Verdana"
+	color: black;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+p#pOne{
+	font-family = "Verdana"
+	color: black;
+	text-align: justify;
+}
+
+p#pTwo{
+	font-family = "Verdana"
+	color: black;
+	text-align: justify;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a#links1:link{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+a#links2{
+	font-family = "Verdana"
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
